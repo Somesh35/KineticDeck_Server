@@ -1,3 +1,0 @@
-/home/abc2/dev/Android/VectorPad_Server/build/CMakeFiles/server.dir
-/home/abc2/dev/Android/VectorPad_Server/build/CMakeFiles/edit_cache.dir
-/home/abc2/dev/Android/VectorPad_Server/build/CMakeFiles/rebuild_cache.dir
